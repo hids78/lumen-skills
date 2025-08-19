@@ -1,0 +1,10 @@
+/* Estilos para el dashboard del super admin. */
+/* Hacemos que los botones sean azules para un look profesional. */
+.wrap h1 {
+    color: #0073aa; /* Color azul de WordPress. */
+}
+button {
+    background-color: #0073aa;
+    color: white;
+    padding: 10px;
+}
